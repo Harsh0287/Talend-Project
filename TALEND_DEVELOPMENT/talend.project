@@ -3,6 +3,7 @@
   <TalendProperties:Project xmi:id="_tH98wA9XEe-FN7x7buC3cQ" label="Talend_Development" language="java" technicalLabel="TALEND_DEVELOPMENT" author="_tH98wQ9XEe-FN7x7buC3cQ" productVersion="Talend Cloud Data Fabric-8.0.1.20240418_1105-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Harsh0287/Talend-Project.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_tKeeMA9XEe-FN7x7buC3cQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
-  <TalendProperties:User xmi:id="_tH98wQ9XEe-FN7x7buC3cQ" login="georgek@predoolecom_nfr" firstName="George" lastName="Koshy" type="DQ"/>
+  <TalendProperties:User xmi:id="_tH98wQ9XEe-FN7x7buC3cQ" login="georgek@predoolecom_nfr" firstName="harsh" lastName="patel" type="DQ"/>
   <TalendProperties:User xmi:id="_2t1EABEpEe-UHMxS3E54Iw" login="megha.m@predoolecom_nfr" firstName="Megha" lastName="More" type="DQ"/>
+  <TalendProperties:User xmi:id="_GwvhABQqEe-LCaYbfARZEg" login="kaushik.solanki@predoolecom_nfr" firstName="Kaushik" lastName="Solanki" type="DQ"/>
 </xmi:XMI>
